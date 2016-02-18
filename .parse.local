@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Meteor": {
+      "applicationId": "Gpv1XQJdJ6TlFwTRkz3f6BDP3tOT3WX1SQvhg2F1"
+    },
+    "_default": {
+      "link": "Meteor"
+    }
+  }
+}
